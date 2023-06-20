@@ -1,0 +1,15 @@
+{
+  "mongodb": {
+    "databaseName": "changeMe",
+    "connectionString": "mongodb://changeMe:changeMe@mongodb:27017"
+  },
+  "pagination": {
+    "page": 0,
+    "pageSize": 20
+  },
+  "secretKey": "changeme",
+  "jwt": {
+    "hoursExpire": 5,
+    "refreshTokenHoursExpire": 12
+  }
+}

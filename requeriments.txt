@@ -1,0 +1,11 @@
+flask~=2.2.2
+flask-jwt===0.3.2
+marshmallow===3.17.1
+dependency-injector===4.40.0
+Werkzeug~=2.2.2
+flask_cors===3.0.10
+pymongo~=4.3.0
+mongo_queries_manager===0.2.2
+bcrypt===4.0.1
+gunicorn===20.1.0
+flask-executor===1.0.0
